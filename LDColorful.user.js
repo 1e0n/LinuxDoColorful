@@ -1,11 +1,13 @@
 // ==UserScript==
 // @name         LDColorful
 // @namespace    http://tampermonkey.net/
-// @version      1.0
+// @version      1.1
 // @description  Color-code topics on linux.do based on category level (Lv1, Lv2, Lv3) with customizable colors via menu.
 // @author       1e0n
 // @match        https://linux.do/
 // @match        https://linux.do
+// @match        https://linux.do/c/*
+// @match        https://linux.do/tag/*
 // @downloadURL  https://raw.githubusercontent.com/1e0n/LinuxDoColorful/main/LDColorful.user.js
 // @updateURL    https://raw.githubusercontent.com/1e0n/LinuxDoColorful/main/LDColorful.user.js
 // @grant        GM_getValue
