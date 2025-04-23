@@ -4,7 +4,8 @@
 // @version      1.0
 // @description  Color-code topics on linux.do based on category level (Lv1, Lv2, Lv3) with customizable colors via menu.
 // @author       Cascade via User Request
-// @match        https://linux.do/*
+// @match        https://linux.do/
+// @match        https://linux.do
 // @downloadURL  https://raw.githubusercontent.com/1e0n/LinuxDoColorful/main/LDColorful.user.js
 // @updateURL    https://raw.githubusercontent.com/1e0n/LinuxDoColorful/main/LDColorful.user.js
 // @grant        GM_getValue
